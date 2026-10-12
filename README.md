@@ -1,5 +1,5 @@
 # PROSİGMA Transfer
 
-Kurumsal dosya paylaşım arayüzü. Bu GitHub Pages yayını hazırlık aşamasındadır; dosya gönderimi ve kullanıcı girişi kapalıdır. Google Drive bağlantısı ve sunucu yetkilendirmesi tamamlandıktan sonra etkinleştirilecektir.
+Canlı hizmet: https://aktar-drive.aktar-drive.workers.dev
 
-Bu depo yalnızca herkese açık arayüz varlıklarını içerir. Drive dosyaları, kullanıcı kayıtları ve erişim anahtarları bu depoda tutulmaz.
+GitHub Pages giriş sayfası kullanıcıları canlı hizmete yönlendirir. Paylaşım bağlantısındaki fragment korunur; erişim anahtarları bu depoda tutulmaz.
